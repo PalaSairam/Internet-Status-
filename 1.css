@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+     box-sizing: border-box;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url(https://wallpaperaccess.com/full/2154269.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.container{
+    max-width: 500px;
+    margin: 200px auto;
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 10px;
+    border: black solid;
+    box-shadow: 0 0 5px lightskyblue;
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    text-shadow:0 0 5px lightcoral;
+}
+.status{
+    margin-left: 30px;
+}
